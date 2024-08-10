@@ -1,0 +1,50 @@
+.nav-bar{
+    max-width: 95%;
+    background-color: #58949E;
+    color: white;
+    margin: auto;
+    padding: 30px;
+    text-align: center;
+}
+
+.nav-content a{
+   padding: 40px;
+   color: #ffffff;
+}
+
+.body{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+a {
+    text-decoration: none;
+
+  }
+
+
+.body-card{
+    
+    border-radius: 16px;
+    max-width: 300px;
+    margin: 40px 20px;
+    text-align: center;
+    padding: 20px 20px;
+    box-shadow: 0px -1px 10px 0px #000000f0;
+}
+
+button{
+    border-radius: 8px;
+    padding: 10px 24px;
+    border: 1px solid #000;
+    transition-duration: 0.4s
+}
+button:hover{
+    background-color: #58949E;
+    color: white;
+  } 
+
+.info{
+    margin-top: 40px;
+    text-align: center;
+}
